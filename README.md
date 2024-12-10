@@ -59,7 +59,7 @@ Ein einfaches und effizientes PHP-basiertes Tool zur Erstellung, Verwaltung und 
 ## Screenshots
 
 ### Rechnungsformular
-![Screenshot des Rechnungsformulars](https://rechnung-erstellen.png?text=Rechnungsformular)
+![Screenshot des Rechnungsformulars](rechnung-erstellen.png?text=Rechnungsformular)
 
 ### Dashboard
 ![Screenshot des Dashboards](https://via.placeholder.com/600x400.png?text=Dashboard)
