@@ -74,9 +74,10 @@
 <body>
     <h1>Rechnungsliste</h1>
 
-    <!-- Button "Neue Rechnung erstellen" -->
+     <!-- Button "Neue Rechnung erstellen oder importieren" -->
     <div class="button-container">
-        <a href="index.php">Neue Rechnung erstellen</a>
+    <a href="index.php">Neue Rechnung erstellen</a>
+    <a href="upload.php" style="background-color: #007BFF;">Eingangsrechnung importieren</a>
     </div>
 
     <!-- Suchfunktion -->
