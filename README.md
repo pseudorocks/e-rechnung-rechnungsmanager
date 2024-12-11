@@ -64,8 +64,11 @@ Ein einfaches und effizientes PHP-basiertes Tool zur Erstellung, Verwaltung und 
 ### Rechnungsformular
 ![Screenshot des Rechnungsformulars](rechnung-erstellen.png?text=Rechnungsformular)
 
-### Dashboard
+### Ausgangsrechnungen
 ![Screenshot des Dashboards](rechnungsliste.png?text=Ausgangsrechnungen)
+
+### Eingangsrechnungen
+![Screenshot des Dashboards](eingangsrechnungen.png?text=Eingangsrechnungen)
 
 ## Warum dieses Tool?
 
