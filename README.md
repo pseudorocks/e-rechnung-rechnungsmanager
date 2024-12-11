@@ -58,6 +58,8 @@ Ein einfaches und effizientes PHP-basiertes Tool zur Erstellung, Verwaltung und 
 3. Über den Button "Neue Rechnung erstellen" kannst du jederzeit eine weitere Rechnung hinzufügen.
 
 ## Screenshots
+### Startseite
+![Screenshot des Rechnungsformulars](startseite.png?text=Startseite)
 
 ### Rechnungsformular
 ![Screenshot des Rechnungsformulars](rechnung-erstellen.png?text=Rechnungsformular)
