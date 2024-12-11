@@ -30,6 +30,7 @@ Ein einfaches und effizientes PHP-basiertes Tool zur Erstellung, Verwaltung und 
   - Das Verzeichnis `output/e-invoices/` für JSON-Dateien.
 
 ## Installation
+### Selber installieren
 
 1. Klone das Repository:
    ```bash
@@ -59,10 +60,10 @@ Ein einfaches und effizientes PHP-basiertes Tool zur Erstellung, Verwaltung und 
 ## Screenshots
 
 ### Rechnungsformular
-![Screenshot des Rechnungsformulars](https://via.placeholder.com/600x400.png?text=Rechnungsformular)
+![Screenshot des Rechnungsformulars](rechnung-erstellen.png?text=Rechnungsformular)
 
 ### Dashboard
-![Screenshot des Dashboards](https://via.placeholder.com/600x400.png?text=Dashboard)
+![Screenshot des Dashboards](rechnungsliste.png?text=Dashboard)
 
 ## Warum dieses Tool?
 
@@ -92,6 +93,10 @@ Möchtest du dieses Projekt verbessern? So kannst du mithelfen:
 ## Lizenz
 
 Dieses Projekt ist unter der [MIT-Lizenz](LICENSE) lizenziert.
+
+## Hilfe bei der Installation
+Ich bringe das das Programm auf ihren Server und mache auf Wunsch Anpassungen am Rechnungs-Template
+info@barbarahohensee.de
 
 ## Unterstützung
 
