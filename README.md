@@ -103,7 +103,7 @@ Dieses Projekt ist unter der [MIT-Lizenz](LICENSE) lizenziert.
 [https://barbarahohensee.de/invoice-generator](https://barbarahohensee.de/invoice-generator/)
 
 ## Hilfe bei der Installation
-Ich bringe das Programm auf ihren Server und mache auf Wunsch Anpassungen am Rechnungs-Template
+Ich bringe das Programm auf deinen Server und mache auf Wunsch Anpassungen am Rechnungs-Template
 info@barbarahohensee.de
 
 ## Unterstützung
