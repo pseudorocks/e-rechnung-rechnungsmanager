@@ -5,6 +5,11 @@ use Dompdf\Dompdf;
 // Daten aus dem Formular empfangen
 $data = $_POST;
 
+// Setze das Rechnungsdatum auf das aktuelle Datum, wenn es nicht gesetzt ist
+if (empty($data['invoice_date'])) {
+    $data['invoice_date'] = date('Y-m-d');
+}
+
 // Rechnungssteller-Daten speichern
 $issuerData = [
     'name' => $data['issuer_name'],
